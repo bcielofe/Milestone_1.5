@@ -1,0 +1,87 @@
+[
+    {
+        "email": "admin@a",
+        "password": "74913f5cd5f61ec0bcfdb775414c2fb3d161b620",
+        "role": "admin"
+    },
+    {
+        "email": "cielo@b",
+        "password": "0be26a006d2405e27ff6224a14bd91e685d47b6a",
+        "role": "regular"
+    },
+    {
+        "email": "new@a",
+        "password": "6c55803d6f1d7a177a0db3eb4b343b0d50f9c111",
+        "role": "regular"
+    },
+    {
+        "email": "new@a",
+        "password": "6c55803d6f1d7a177a0db3eb4b343b0d50f9c111",
+        "role": "regular"
+    },
+    {
+        "email": "test@a",
+        "password": "206c80413b9a96c1312cc346b7d2517b84463edd",
+        "role": "regular"
+    },
+    {
+        "email": "try@a",
+        "password": "d0db870eae1803f3a08da6545c9df7703b783a26",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    },
+    {
+        "email": "try@b",
+        "password": "50e8e0b685198c1218712d11f3b7803b7afbfddd",
+        "role": "regular"
+    }
+]

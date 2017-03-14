@@ -1,0 +1,71 @@
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img {
+	width: 100%;
+	margin: auto;
+	max-height: 625px;
+}
+header {
+	padding: 0;
+}
+
+/*changes color of the navigation bar*/
+.navbar-inverse, .btn {
+	background: #0d0c0a;
+}
+
+/*changes color of the texts of links and contents of the navigation bar*/
+.navbar-inverse .navbar-brand, 
+.navbar-inverse .navbar-nav>li>a, 
+a, .btn {
+	color: #b4762d;
+}
+
+.btn-default:hover {
+	color: #0d0c0a;
+    background-color: #b4762d;
+    font-weight: bold;
+}
+
+.btn-default:focus {
+	color: #b4762d;
+    background-color: #e6e6e6;
+}
+
+.banner {
+	padding: 0;
+}
+
+/*margin was included to accomodate the fixed navbar
+padding was necessary to provide space before the footer*/
+.login {
+	margin-top: 75px;
+	padding-bottom: 75px;
+	color: black;
+}
+
+.clear:after {
+	clear: both;
+}
+.leftLogin {
+	float: left;
+}
+.rightLogin {
+	float: right;
+	font-size: .9em;
+}
+
+#PwdModal {
+	color: black;
+}
+
+footer {
+	background: #0d0c0a;
+	min-height: 50px;
+	color: #b4762d;
+	margin: auto;
+	text-align: center;
+	font-size: .8em;
+}
+footer img {
+	width: 15px;
+}
